@@ -1,3 +1,28 @@
+이 깃허브는 https://github.com/ruotianluo/ImageCaptioning.pytorch의 코드를 기반으로 오류 문제를 해결하고 SDBS 알고리즘을 추가하였습니다.
+
+사용 환경
+Ubuntu 20.04.4 LTS
+Python 3.8.13, 
+PyTorch 1.12.0
+CUDA 11.6, 
+cuDNN 8.4.0,
+NLTK 3.7.
+
+pip install nltk==3.7
+pip install h5py==3.7.0
+pip install lmdbdict==0.2.2
+pip install scikit-image==0.19.2
+pip install matplotlib==3.5.1
+pip install gensim==4.2.0
+pip install pyemd==0.5.1
+pip install pandas
+
+
+
+
+
+
+
 # An Image Captioning codebase
 
 This is a codebase for image captioning research.
