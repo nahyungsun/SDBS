@@ -48,7 +48,6 @@ class CaptionModel(nn.Module):
             for i in range(len(array_a)):
                 if array_a[i] == array_b[i]:
                     count += 1
-            print("Hamming~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
             return count / len(array_a)
 
         def wordnet_similarity(word1, word2):  # "" 문자열만 가능
@@ -57,7 +56,6 @@ class CaptionModel(nn.Module):
 
             if wn_word1 == [] or wn_word2 == []:
                 return 0
-            print("sdbs~~~~~~~~~~~~~~~~~")
             return wn_word1[0].wup_similarity(wn_word2[0])
             
         def wordnet_syns(word1, word2):  # "" 문자열만 가능
@@ -82,7 +80,6 @@ class CaptionModel(nn.Module):
             #  topk1,2 적용할 단어 개수
             #  w_sim 단어 유사도 기준
             #  w_apply 적용할 단어의 개수
-
             local_time = t - divm
             unaug_logprobs = logprobs.clone()
             batch_size = beam_seq_table[0].shape[0]
