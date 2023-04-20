@@ -17,6 +17,11 @@ pip install gensim==4.2.0
 pip install pyemd==0.5.1
 pip install pandas
 
+실험 방법은 my_gen_eval_n_dbs_.sh 스크립트 파일을 다음과 같이 실행하면 됩니다. 뒤의 인자는 사용할 모델의 이름입니다.
+
+bash my_gen_eval_n_dbs_.sh trans (or a2i2)
+
+
 
 
 
