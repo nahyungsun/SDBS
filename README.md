@@ -8,14 +8,14 @@ CUDA 11.6,
 cuDNN 8.4.0,
 NLTK 3.7.
 
-pip install nltk==3.7
-pip install h5py==3.7.0
-pip install lmdbdict==0.2.2
-pip install scikit-image==0.19.2
-pip install matplotlib==3.5.1
-pip install gensim==4.2.0
-pip install pyemd==0.5.1
-pip install pandas
+pip install nltk==3.7  
+pip install h5py==3.7.0  
+pip install lmdbdict==0.2.2  
+pip install scikit-image==0.19.2  
+pip install matplotlib==3.5.1  
+pip install gensim==4.2.0  
+pip install pyemd==0.5.1  
+pip install pandas  
 
 실험 방법은 my_gen_eval_n_dbs_.sh 스크립트 파일을 다음과 같이 실행하면 됩니다. 뒤의 인자는 사용할 모델의 이름입니다.
 
