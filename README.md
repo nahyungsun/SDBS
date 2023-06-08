@@ -1,4 +1,4 @@
-이 깃허브는 https://github.com/ruotianluo/ImageCaptioning.pytorch의 코드를 기반으로 오류 문제를 해결하고 SDBS 알고리즘을 추가하였습니다.
+이 깃허브는 https://github.com/ruotianluo/ImageCaptioning.pytorch의 코드를 기반으로 오류 문제를 해결하고 SDBS 알고리즘 및 성능 향상을 위한 알고리즘 제안 그리고 코드 최적화를 진행하였습니다.
 
 사용 환경
 Ubuntu 20.04.4 LTS
