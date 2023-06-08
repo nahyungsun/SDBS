@@ -32,25 +32,25 @@ bash my_gen_eval_n_dbs_.sh trans (or a2i2)
   ● man riding a motor bike on a dirt road on the countryside.  
 
 ##### BeamSearch
-● a man riding a motorcycle down a dirt road
-● a man riding a motorcycle on a dirt road
-● a man rides a motorcycle down a dirt road
-● a man is riding a motorcycle on a dirt road
-● a man riding a motorcycle down a dirt road in the mountains
+● a man riding a motorcycle down a dirt road  
+● a man riding a motorcycle on a dirt road  
+● a man rides a motorcycle down a dirt road  
+● a man is riding a motorcycle on a dirt road  
+● a man riding a motorcycle down a dirt road in the mountains  
 
 ##### Diverse Beam Search
-● a man riding a motorcycle down a dirt road
-● man riding a motorcycle on a dirt road
-● there are two people riding on a motorcycle
-● a person on a motor bike on a dirt road
-● two people are riding a motorcycle down a trail
+● a man riding a motorcycle down a dirt road  
+● man riding a motorcycle on a dirt road  
+● there are two people riding on a motorcycle  
+● a person on a motor bike on a dirt road  
+● two people are riding a motorcycle down a trail  
 
 ##### Semantic Diverse Beam Search
-● a man riding a motorcycle down a dirt road
-● there is a man riding a motorcycle down a dirt road
-● man riding motorcycle on dirt road with mountain in background
-● the person is riding a motorcycle down the dirt road
-● an image of a man riding his motor bike
+● a man riding a motorcycle down a dirt road  
+● there is a man riding a motorcycle down a dirt road  
+● man riding motorcycle on dirt road with mountain in background  
+● the person is riding a motorcycle down the dirt road  
+● an image of a man riding his motor bike  
 
 
 
