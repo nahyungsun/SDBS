@@ -25,11 +25,11 @@ bash my_gen_eval_n_dbs_.sh trans (or a2i2)
 ![image](https://github.com/nahyungsun/SDBS/assets/54011107/c9d383ae-0ab8-4ca4-a3ee-4953bd9c4414)
 
 ##### COCO Data Set Label
-● a man with a red helmet on a small moped on a dirt road.
-● a man riding on the back of a motorcycle.
-● a dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains.
-● a man in a red shirt and a red hat is on a motorcycle on a hill side.
-● man riding a motor bike on a dirt road on the countryside.
+ ● a man with a red helmet on a small moped on a dirt road.
+ ● a man riding on the back of a motorcycle.
+ ● a dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains.
+ ● a man in a red shirt and a red hat is on a motorcycle on a hill side.
+ ● man riding a motor bike on a dirt road on the countryside.
 
 ##### BeamSearch
 ● a man riding a motorcycle down a dirt road
